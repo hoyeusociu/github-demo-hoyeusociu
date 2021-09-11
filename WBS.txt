@@ -1,0 +1,11 @@
+I. Khái niệm
+- hệ thống hoá các cv của dự án bằng
+cách chia nhỏ dự án thành các công việc nhỏ dần
+- cần xác định tất cả các công việc
+- sắp xếp theo trình tự nhất định (thời gian, chức năg của nhóm cv)
+- ước tính nguồn lực, thời gian, chi phí
+các yêu cầu kỹ thuật khác.
+
+II. Trình bày
+- dạng sđ khối
+- dạng liệt kê

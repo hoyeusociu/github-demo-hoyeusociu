@@ -1,0 +1,130 @@
+Ưu điểm : linh hoạt hơn - có thể quay trở lại các quy trình trước đó
+Chú trọng: 
+- con ng (cá nhân) và tương tác - bớt đặt nặng vào quy trình và công cụ
+- phần mềm hoạt động được quan trọng hơn 1 tài liệu dễ hiểu
+- sự htac vs khách qtrong hơn đàm phán hợp đồng 
+- phản ứng vs sự thay đổi hơn theo 1 kế hoạch định sẵn 
+
+định nghĩa: là 1 framework (k phải là quy trình, kỹ thuật để ptrien) khung làm việc để cta có thể
+áp dụng các quy trịnh trên đó. cta làm những gì tốt nhất
+cho khách hàng. (k phủ nhận quy trình)
++ nhẹ : k nặng nề về lý thuyết, k nhiều rule
++ đơn giản, dễ hiểu
++ khó thành thạo
+
+- định nghĩa khái niệm: scrum teams, roles, events, artifacts (vật phẩm làm ra trong qtr sản xuất pm), rules
+
+- 3 tính chất cơ bản và qtrong nhất
++ minh bạch: tại bất cứ thời điểm, mn đều phải biết tất cả các khía cạnh của công việc (luôn biết đc tt cần)
++ có thể ktra đc: ktra đc qtrinh làm việc, mục tiêu ở bất kỳ thời điểm nào
++ thích nghi: với sự thay đổi yêu cầu của khách
+ 
+* Scrum team:
+- product owner: ng làm chủ sp
+- scrum master: ng giỏi về scrum
+- dev team: nhóm pt
+- cần có tính tự quản và tính đa năng
+
+- Nghĩa vụ :
++ biến những task thành các sp có thể triển khai đc
+(làm ra sp có thể deliver đc cho khách)
++ bàn giao theo kiểu ngày càng update lên
+cho khách có quyền được feedback trong suốt quá trình
+
+
+* Product owner: ng phụ trách tối ưu gtri sp
+- quản lý ds tất cả các task, các chức năng trong dự án (product backlog)
+- là 1 ng k phải 1 tổ chức (ng đại diện)
+
+
+*Development team: ng phát triển pm chuyên nghiệp => biến task của khách thành sp
+- được trao quyền tự quản lý công việc của họ
+- tính chất:
++ nhóm tự quản
++ đa năng : tất cả mọi ng, mỗi ng 1 kỹ năng nhưng tổng hợp lại thì đủ 
+giải quyết mọi vấn đề trong dự án mà k cần nhờ ai bên ngoài
++ k quy định chức danh cho ng trong team
++ k chia thành các team nhỏ hơn
++ mỗi ng có thể có mỗi kỹ năng riêng nhưng khi chịu trách nhiệm
+thì mọi ng cùng chịu trách nhiệm
++ dev team chỉ 3-9 ng
+nhiều hơn thì chia thành nhiều dev team
+
+
+* Scrum master:1 ng giỏi về scrum => hd mọi ng 
+- giúp mn tối ưu hoá giá trị scrum tạo ra
+
+
+* Scrum artifacts: tất cả mọi thứ muốn tạo ra trong dự án
+- backlog chứa tất cả mọi thứ định làm (ds những vc cần làm)
+- product owner qly backlog - sx độ ưu tiên
+- mỗi công việc gọi là 1 stories - user stories :
+mọi yêu cầu đều xphat từ câu chuyện của ng sdung
++ có những stories liên quan đến nhau => gom thành 1 cái lớn hơn
+là epic : bản trường ca.
+- epic, stories, short task gọi chung là backlog item
+- đặc tính:
++ description
++ thứ tự: ưu tiên trong backlog
++ estimate: thể hiện độ phức tạp của item đó. (theo point)
+do dev team thực hiện
++ giá trị của item mang lại
+=> product backlog luôn luôn đc thêm các item mới
+=> chỉ kết thúc việc này khi dự án kết thúc
+
+
+* Định nghĩa về sự hoàn thành
+- định nghĩa rõ ràng thế nào là xong
+
+
+* Scrum event
+- event chính (trái tym của scrum): sprint
+=> vận hành dự án => chia khung dự án thành các sprint
+=> là 1 sự kiện mang tính chất time-box evt (nó sẽ kết thúc khi thời gian hết mà k cần biết đến kq)
+=> các khoảng t.g kéo dài chỉ từ 1 tuần - 1 tháng
+=> sprint tốt nhất nên có thời gian như nhau
+=> 1 sprint mới sẽ bắt đầu ngay lập tức khi sprint trc nó kết thúc
+- mục tiêu: rõ ràng, gắn kết
+- trong suốt sprint : 
++ k được thay đổi mà làm nguy hiểm đến mục tiêu của sprint
++ mục tiêu về mặt chất lượng k được phép giảm trong suốt sprint
++ những cv định làm trong sprint có thể được làm rõ hoặc đàm phán lại vs bên khách, product owner
+
+- Sprint bao gồm các sk con:
++ sprint planning : lập kế hoạch
+sprint kéo dài 1 tháng => sprint plan = 8h
+làm đc cái gì trong sprint tiếp theo
+cần những cái gì giúp làm đc việc đó
+lập ra sprint backlog: ds công việc của sprint (do dev qly)=> toàn quyền qly trong sprint
++ daily scrum: hàng ngày ktra với nhau xem đi đến đâu, có vđe gặp phải 
+kéo dài 15p
+đồng bộ hoá tất cả các hđ trong 24h qua và lập kế hoạch trong 24h tới
+tổ chức tại cùng 1 địa điểm và thời gian mỗi ngày
+tất cả mn tham gia nên đứng trong suốt thời gian
+từng ng sẽ phải trả lời 3 câu hỏi (đã làm gì ngày hqa để giúp cho dev team đạt đc mục tiêu sprint/tôi sẽ làm gì/ tôi có thấy điều gì khó khăn cản trở)
+=> cải thiện kỹ năng giao tiếp/ giảm cuộc họp khác/ phát hiện vấn đề sớm/ đưa ra quyết định nhanh)
+(thg xuyên xem còn lại bn cv)
+(sprint increment: tất cả cv làm được trong sprint có thể deliver)
+
++ sprint review:khi làm tất cả công việc của sprint
+=> ngồi lại xem xem chúng ta đã làm đc gì 
+=> demo cho các skateholder (khách, product owner,...)
+xem có đúng yêu cầu k (kéo dài 4h cho sprint 1 tháng)
+=> đưa ra backlog để có kế hoạch sẵn sàng cho sprint tiếp
+
++ sprint retrospective: xem lại cách thức mình đã làm sp đó
+=> xem lại quy trình làm việc của cta
+=> sprint trc đã làm đc cái gì tốt
+=> có cái gì cần cải thiện để làm tốt hơn trong sprint tới
+=> làm gì cho sprint tiếp theo để cải thiện
+=> 3h cho 1 sprint dài 1 tháng
+
+
+* story point và cách estimate
+- là thước đo giúp quản lý các user story => cho thấy độ phức tạp, độ khó của story
++ khối lượng việc phải làm
++ độ phức tạp
++ rủi ro
+=> con số tương đối
+- estimate làm cơ sở để estimate cho việc tiếp
+- 

@@ -1,0 +1,70 @@
+Project charter
+
+I. Khái niệm
+- là tài liệu sd để giới thiệu về dự án của mình
++ được tạo ra trong những ngày đầu dự án
+tại thời điểm chưa tham gia 
+nếu có ng mới => gửi charter cho họ => họ có sẽ biết được mọi thứ cần
+
+- đạt được thoả thuận hoặc sự thống nhất các khía cạnh của dự án
+vd: mục tiêu, phạm vi, ngân sách,...
+- charter đã được tạo => gửi bản thảo cuối cùng để xin chữ ký để có được sự chấp
+thuận để tiến hành lập kế hoạch dự án.
+
+II. Chi tiết
+- k cần phải là 1 tài liệu chi tiết
+- chỉ cần đủ thông tin để mô tả dự án
+và sp mà nó sẽ tạo ra (khoảng <=5tr)
+
+III. Những thứ cho vào project charter
+1. background
+- liệt kê bất cứ điều gì cần biết để hiểu tại sao
+dự án lại là 1 ý tưởng tốt
+- có xu hướng mới trong ngành của bạn không?
+2. Scope
+- pvi nên mô tả ở cấp độ đủ cao của các thuộc tính
+sp cuối
+- mô tả hđong nhóm sẽ thực hiện:
+nhóm bạn có thiết kế và xd sp k?
+bạn sẽ kiểm tra nó?
+sẽ bán nó cho?
+=> xác định ranh giới của dự án
+chịu trách nhiệm gì?
+dự án bắt đầu và kết thúc ở đâu?
+và để đạt đc điều đó 
+- sẽ giải thích rõ ràng những thứ
+dự án của bạn sẽ không làm (nếu có)
+vd: nhóm sẽ thiết kế, xd và test sp
+nhưng việc bán và đạt đc mục tiêu doanh thu
+nhất định sẽ k thuộc trách nhiệm của nhóm => nên ghi ra
+3. Objective
+- liệt kê các mục tiêu có thể đo lường đc
+(đưa ra chi tiết con số)
+4. Governance
+- liệt kê PM, nhà tài trợ, tất cả thành viên
+trong nhóm dự án
+5. Schedule
+- liệt kê ngày hoặc cột mốc quan trọng
+6. Budget
+- chi phí để thực hiện hoặc bảo trì
+7. Assumptions, constrains, dependencies
+- liệt kê ràng buộc, rủi ro giả định, phụ thuộc
+- ràng buộc là yếu tố bên ngoài hoặc trong
+quyết định các khía cạnh nhất định của dự án bạn
+vd: nếu dự án tổ chức 1 chuyến dã ngoại của cty
+và bạn sống ở 1 nơi tuyết rơi => 1 hạn chế có thể 
+là chuyến dã ngoại phải đc từ th5-th9
+- Giả định là bất kỳ điều kiện hoặc tình
+huống nào mà bạn và nhóm đang dựa vào để đạt đc 
+mục tiêu
+vd:dự án của bạn có thể đang xd và cung cấp 1
+module tuỳ chỉnh cho ERP hứa hẹn mang lại sự gia tăng
+đáng kể về năng suất trong 5 năm tới. giả định là
+cty của bạn sẽ sd hthong ERP đó trong 5 năm tới.
+- Rủi ro là bất cứ điều gì có thể cản trở thực hiện mục tiêu
+- phụ thuộc 
+
+IV. Điều cần
+1. Ai tham gia?
+- tất cả mn
+

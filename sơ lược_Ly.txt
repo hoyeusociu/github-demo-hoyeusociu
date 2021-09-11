@@ -1,0 +1,27 @@
+Ưu điểm : linh hoạt hơn - có thể quay trở lại các quy trình trước đó
+- khái niệm cơ bản: scrum teams, roles, events, artifacts, rules
++ scrum teams gồm Product owner (người quản lý danh sách tất cả các task, chức năng của dự án)
++ scrum master : người thành thạo về scrum
++ development team: nhóm phát triển
+
+Chia dự án thành nhiều sprint để vận hành dự án
+- Gồm các event chính gọi là sprint
+Trong suốt quá trình của 1 sprint cần lưu ý:
++ không được thay đổi mà làm nguy hiểm đến mục tiêu của sprint
++ mục tiêu về mặt chất lượng không được phép giảm trong suốt sprint
++ những cv định làm trong sprint có thể được làm rõ hoặc đàm phán lại vs bên khách, product owner
+
+Quy trình mỗi sprint gồm
+1. sprint planning : lập kế hoạch, ds công việc cần làm trong sprint tới
+(sprint kéo dài 1 tháng => sprint planning = 8h)
+2. daily scrum : hàng ngày kiểm tra với nhau xem đã và sẽ làm gì, có gặp vấn đề gì không.
+(chỉ kéo dài 15p, tổ chức tại 1 địa điểm + thời gian vào mỗi ngày)
+3. sprint review : xem lại đã làm được gì trong cả sprint
+=> demo cho skateholder (khách hàng, product owner,...) xem có đúng yêu cầu không
+(kéo dài 4h cho sprint dài 1 tháng)
+=> đưa ra danh sách task để có kế hoạch cho sprint tới
+4. sprint retrospective: xem lại quy trình làm việc của team
+=> sprint trước đã có cái gì làm được tốt/ cần cải thiện gì
+(3h cho sprint dài 1 tháng)
+
+- nên đưa ra story point : số điểm đánh giá độ phức tạp, ưu tiên của task

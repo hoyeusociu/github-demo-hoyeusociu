@@ -1,0 +1,14 @@
+I. Background
+  Trong thời đại công nghệ phát triển hiện nay và nhất 
+là trong thời kỳ dịch bệnh căng thẳng. Những ứng dụng mạng xã 
+hội như MEET, ZOOM,.. rất được tin dùng cho sự nghiệp giáo dục.
+Tuy nhiên, để giáo viên và học sinh có thể trải nghiệm được
+một buổi học trọn vẹn thì MEET hiện tại vẫn chưa đáp ứng được.
+Do đó để tăng trải nghiệm người dùng và thuận tiện hơn trong việc 
+dạy và học. Nhóm đã quyết định phát triển phần extension cho MEET này để
+giúp giáo viên có thể tương tác nhiều hơn với học sinh của mình.
+Có thể thuận lợi hơn trong việc lấy được ý kiến, tạo ra sân chơi nhỏ nhỏ xen kẽ trong tiết học.
+Việc phân chia nhóm cũng trở nên dễ dàng hơn. Học sinh sẽ thấy bớt
+nhàm chán vì phải học online một cách bị động.
+
+II. Scope
